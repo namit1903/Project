@@ -357,12 +357,18 @@ nav ul li a:hover{
         .header-text h1{
             font-size: 30px;
         }
-        nav .fa-solid,nav .micon{
+        nav ul .fa-solid{
             display:block;
-            color:red;
+            color:#262626;
+            font-size: 25px;
+        }
+        nav .fa-solid{
+            display:block;
+            color:rgb(207, 125, 125);
+            font-size: 30px;
         }
         nav ul{
-            background: #ff004f;
+            background: linear-gradient(rgba(0,0,0,0.6), #ff004f);
             position:fixed;
             top:0;
             right:-200px;
@@ -381,6 +387,7 @@ nav ul li a:hover{
             top:25px;
             left:25px;
             cursor: pointer;
+            color:#b05408;
         }
         .sub-title{
             font-size: 40px;
