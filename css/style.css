@@ -348,7 +348,7 @@ nav ul li a:hover{
     /* --------------------Responsive Design---------------------------------------------------------------- */
     @media only screen and (max-width:600px){
         #header{
-            background-image: url(/images/background2.jpg)
+            background-image: url(/images/my\ photo.jpeg)
         }
         .header-text{
             margin-top: 100%;
